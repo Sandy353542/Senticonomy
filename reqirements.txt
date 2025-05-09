@@ -1,0 +1,21 @@
+pip install kagglehub
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install scipy
+pip install seaborn
+pip install plotly
+pip install spacy
+pip install -U scikit-learn
+pip install boto3
+pip install sqlalchemy pymysql
+pip install python-dotenv
+pip install cryptography
+pip install streamlit
+pip install nltk
+pip install wordcloud
+pip install transformers
+pip install --upgrade transformers
+
+
+pip install pandas numpy nltk plotly wordcloud matplotlib python-dotenv newsapi-python boto3 transformers streamlit sqlalchemy vaderSentiment
